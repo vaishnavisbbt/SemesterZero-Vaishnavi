@@ -21,3 +21,4 @@ Food Technology
 ## Interesting Fact About Me
 I love exploring new ideas and learning new skills
 # SemesterZero-Vaishnavi
+I successfully completed my first GitHub repository
